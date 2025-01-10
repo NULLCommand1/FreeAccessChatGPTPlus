@@ -5,6 +5,10 @@ const cheerio = require('cheerio');
 
 router.get('/', getAccountData);
 
+router.get('/hello', (req, res) => {
+    res.send('Hello World');
+});
+
 const redirects = [
     // { path: '/view', url: 'https://purehealthtt.onlinewebshop.net/' },
 ];

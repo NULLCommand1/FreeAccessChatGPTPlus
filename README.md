@@ -14,10 +14,11 @@
 
 ## Usage
 
-- <img src="https://img.icons8.com/color/48/000000/1-circle.png" alt="Step 1" width="24"> Visit the website [Free Access ChatGPT Plus](https://gptplus-openfxt.vercel.app/).
+- <img src="https://img.icons8.com/color/48/000000/1-circle.png" alt="Step 1" width="24"> Visit the website [Free Access ChatGPT Plus](https://gptplus-openfxt.deno.dev/).
 - <img src="https://img.icons8.com/color/48/000000/2-circle.png" alt="Step 2" width="24"> Copy the provided ChatGPT Plus account information.
-- <img src="https://img.icons8.com/color/48/000000/3-circle.png" alt="Step 3" width="24"> Visit the ChatGPT website and log in using the copied account information, then follow the instructions in the service to obtain the 2FA code.
-- <img src="https://img.icons8.com/color/48/000000/4-circle.png" alt="Step 4" width="24"> Start using the ChatGPT Plus service for free.
+- <img src="https://img.icons8.com/color/48/000000/3-circle.png" alt="Step 3" width="24"> Visit the ChatGPT website and log in using the copied account information.
+- <img src="https://img.icons8.com/color/48/000000/4-circle.png" alt="Step 4" width="24"> After successfully logging into the ChatGPT Plus account, you will be prompted to enter a verification code sent to the email of the copied ChatGPT account. Return to the Free Access ChatGPT Plus website, refresh the page to get the latest verification code, and then enter the code on the ChatGPT website.
+- <img src="https://img.icons8.com/color/48/000000/5-circle.png" alt="Step 5" width="24"> Start using ChatGPT Plus for free.
 
 ## Legal Disclaimer
 

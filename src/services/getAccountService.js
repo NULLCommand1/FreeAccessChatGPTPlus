@@ -54,6 +54,8 @@ const getAccountData = async (req, res) => {
         const data = await response.text();
         const $ = cheerio.load(data);
 
+        $('button.refresh-otp-button').remove();
+        $('button.error-bell-button').remove();
         $('a.menu-link').remove();
         $('head').prepend('<link rel="icon" type="image/png" sizes="16x16" href="https://openfxt.vercel.app/images/favicon.png">');
         $('#elementor-tab-title-1861, #elementor-tab-title-1862, #elementor-tab-content-1861').remove();
