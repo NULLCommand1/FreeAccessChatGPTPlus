@@ -1,5 +1,9 @@
 # Free Access ChatGPT Plus (Inactive)
 
+## Important Announcement
+
+We have developed a new project to replace this one in order to continue the original purpose of the initial project. Find details at [GPTPlusUnlockerExtensionV2](https://github.com/NULLCommand1/GPTPlusUnlockerExtensionV2).
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" width="120">
 </p>
